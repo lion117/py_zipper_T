@@ -8,7 +8,7 @@ import py2exe
 
 
 
-setup(console=["pyzip.py"],
+setup(console=["PyZipper.py"],
       options={"py2exe":{
                   "compressed": True ,
                   "optimize": 2,
